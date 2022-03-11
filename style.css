@@ -1,0 +1,10 @@
+.result-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}
+
+.single-movie {
+  border: 2px solid blue;
+  border-radius: 8px;
+}
